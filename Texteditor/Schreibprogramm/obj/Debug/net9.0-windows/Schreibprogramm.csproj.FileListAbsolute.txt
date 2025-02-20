@@ -1,0 +1,16 @@
+C:\Users\danie\Desktop\projekt\Schreibprogramm\Schreibprogramm\bin\Debug\net9.0-windows\Schreibprogramm.exe
+C:\Users\danie\Desktop\projekt\Schreibprogramm\Schreibprogramm\bin\Debug\net9.0-windows\Schreibprogramm.deps.json
+C:\Users\danie\Desktop\projekt\Schreibprogramm\Schreibprogramm\bin\Debug\net9.0-windows\Schreibprogramm.runtimeconfig.json
+C:\Users\danie\Desktop\projekt\Schreibprogramm\Schreibprogramm\bin\Debug\net9.0-windows\Schreibprogramm.dll
+C:\Users\danie\Desktop\projekt\Schreibprogramm\Schreibprogramm\bin\Debug\net9.0-windows\Schreibprogramm.pdb
+C:\Users\danie\Desktop\projekt\Schreibprogramm\Schreibprogramm\obj\Debug\net9.0-windows\Schreibprogramm.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\projekt\Schreibprogramm\Schreibprogramm\obj\Debug\net9.0-windows\Schreibprogramm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\projekt\Schreibprogramm\Schreibprogramm\obj\Debug\net9.0-windows\Schreibprogramm.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\projekt\Schreibprogramm\Schreibprogramm\obj\Debug\net9.0-windows\Schreibprogramm.AssemblyInfo.cs
+C:\Users\danie\Desktop\projekt\Schreibprogramm\Schreibprogramm\obj\Debug\net9.0-windows\Schreibprogramm.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\projekt\Schreibprogramm\Schreibprogramm\obj\Debug\net9.0-windows\Schreibprogramm.dll
+C:\Users\danie\Desktop\projekt\Schreibprogramm\Schreibprogramm\obj\Debug\net9.0-windows\refint\Schreibprogramm.dll
+C:\Users\danie\Desktop\projekt\Schreibprogramm\Schreibprogramm\obj\Debug\net9.0-windows\Schreibprogramm.pdb
+C:\Users\danie\Desktop\projekt\Schreibprogramm\Schreibprogramm\obj\Debug\net9.0-windows\Schreibprogramm.genruntimeconfig.cache
+C:\Users\danie\Desktop\projekt\Schreibprogramm\Schreibprogramm\obj\Debug\net9.0-windows\ref\Schreibprogramm.dll
+C:\Users\danie\Desktop\projekt\Schreibprogramm\Schreibprogramm\obj\Debug\net9.0-windows\Schreibprogramm.Texteditor.resources
